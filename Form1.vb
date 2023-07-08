@@ -103,7 +103,7 @@ Public Class mainForm
 
         'display results of calculation
         If cLevel = 802 Then
-            levelsAvailableTextBox.Text = "Already at Max Level"
+            'levelsAvailableTextBox.Text = "Already at Max Level"
         End If
 
         If cLevel + levelsAvailable > 802 Then
